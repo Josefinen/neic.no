@@ -1,3 +1,9 @@
+Hi,
+
+Just trying out GitHub. Hopefully I'm not messing up anything in the process...
+
+--Josefine
+
 [![License](https://img.shields.io/badge/license-%20MPL--v2.0-blue.svg)](../master/LICENSE)
 
 
